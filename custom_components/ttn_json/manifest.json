@@ -1,0 +1,10 @@
+{
+  "domain": "ttn_json",
+  "name": "TTN Json Component",
+  "documentation": "https://github.com/wdawson61/ttn-json-component",
+  "issue_tracker": "https://github.com/wdawson61/ttn-json-component/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@wdawson61"],
+  "requirements": []
+}
